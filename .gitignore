@@ -1,0 +1,6 @@
+# Binaries
+printsvr.exe
+*.exe
+
+# Data directory
+data/
